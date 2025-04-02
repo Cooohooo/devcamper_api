@@ -1,0 +1,30 @@
+[
+    {
+        "user": "647222222222222222222222",
+        "name": "Devworks Bootcamp",
+        "description": "Devworks is a full stack JavaScript bootcamp located in the heart of Boston that focuses on teaching you the latest web development technologies.",
+        "website": "https://devworks.com",
+        "phone": "(111) 111-1111",
+        "email": "info@devworks.com",
+        "address": "233 Bay State Road, Boston, MA 02116",
+        "careers": ["Web Development", "Data Science", "Business"],
+        "housing": true,
+        "jobAssistance": true,
+        "jobGuarantee": false,
+        "acceptGi": true
+    },
+    {
+        "user": "5d5d5d5d5d5d5d5d5d5d5d5d",
+        "name": "ModernTech Bootcamp",
+        "description": "ModernTech has one goal, and that is to make you a rockstar developer and/or designer with a six figure salary. We teach both development and UI/UX.",
+        "website": "https://moderntech.com",
+        "phone": "(222) 222-2222",
+        "email": "enroll@moderntech.com",
+        "address": "220 Pawtucket Street, Lowell, MA 01854",
+        "careers": ["Web Development", "UI/UX", "Mobile Development"],
+        "housing": false,
+        "jobAssistance": true,
+        "jobGuarantee": false,
+        "acceptGi": true
+    }
+]
