@@ -1,5 +1,6 @@
 [
     {
+        "_id": "67e113f9e249027b806a03f5",
         "user": "647222222222222222222222",
         "name": "Devworks Bootcamp",
         "description": "Devworks is a full stack JavaScript bootcamp located in the heart of Boston that focuses on teaching you the latest web development technologies.",
@@ -14,6 +15,7 @@
         "acceptGi": true
     },
     {
+        "_id": "67e11420e249027b806a03f7",
         "user": "5d5d5d5d5d5d5d5d5d5d5d5d",
         "name": "ModernTech Bootcamp",
         "description": "ModernTech has one goal, and that is to make you a rockstar developer and/or designer with a six figure salary. We teach both development and UI/UX.",
@@ -26,5 +28,35 @@
         "jobAssistance": true,
         "jobGuarantee": false,
         "acceptGi": true
+    },
+    {
+        "_id": "67f621037582ff2178bf5057",
+        "user": "67f621037582ef2178bf5053",
+        "name": "Codemasters",
+        "description": "Is coding your passion? Codemasters will give you the skills to build a career in software development. We specialize in full stack development, UI/UX design, and mobile data science.",
+        "website": "https://codemasters.com",
+        "phone": "(222) 222-2222",
+        "email": "enroll@codemasters.com",
+        "address": "85 South Prospect Street, Burlington, VT 05405",
+        "careers": ["Web Development", "Data Science", "Business"],
+        "housing": false,
+        "jobAssistance": false,
+        "jobGuarantee": false,
+        "acceptGi": false
+    },
+    {
+        "_id": "67e113f9e249027b806a03f6",
+        "user": "67e113f9e249027b806a03f1",
+        "name": "Devcentral Bootcamp",
+        "description": "Is coding your passion? Devcentral will give you the skills to build a career in software development. We specialize in full stack development, UI/UX design, and mobile data science.",
+        "website": "https://devcentral.com",
+        "phone": "(222) 222-2222",
+        "email": "enroll@devcentral.com",
+        "address": "45 Upper College Road, Kingston, RI 02782",
+        "careers": ["Web Development", "Data Science", "Business", "Mobile Development"],
+        "housing": false,
+        "jobAssistance": false,
+        "jobGuarantee": false,
+        "acceptGi": false
     }
 ]
