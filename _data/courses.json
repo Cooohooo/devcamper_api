@@ -1,0 +1,72 @@
+[
+	{
+		"_id": "67e113f9e249234b806a03f5",
+		"title": "Full Stack Development",
+		"description": "This course will provide you with all of the essential skills needed to become a full stack developer. You will learn to master HTML, CSS, JavaScript, React, Node.js, and more.",
+		"weeks": "8",
+		"tuition": 8000,
+		"minimumSkill": "beginner",
+		"scholarshipAvailable": true,
+		"bootcamp": "67e113f9e249027b806a03f5"
+	},
+	{
+		"_id": "67e113f9e249027b806a03f7",
+		"title": "Full Stack Web Dev",
+		"description": "In this course you will learn all about the front end with HTML, CSS, JavaScript, React, Node.js, and more. You will also learn about the back end with MongoDB, Express, and more.",
+		"weeks": "12",
+		"tuition": 12000,
+		"minimumSkill": "intermediate",
+		"scholarshipAvailable": true,
+		"bootcamp": "67e11420e249027b806a03f7"
+	},
+	{
+		"_id": "67e113f9e221327b806a03f6",
+		"title": "Web Design & Development",
+		"description": "Get started building websites and learning the skills needed to become a web developer.",
+		"weeks": "10",
+		"tuition": 12000,
+		"minimumSkill": "beginner",
+		"scholarshipAvailable": true,
+		"bootcamp": "67e113f9e249027b806a03e6"
+	},
+	{
+		"_id": "67e113f9e221327b776a03f6",
+		"title": "Data Science Program",
+		"description": "In this course you will learn Python for data analysis and machine learning.",
+		"weeks": "10",
+		"tuition": 14000,
+		"minimumSkill": "beginner",
+		"scholarshipAvailable": true,
+		"bootcamp": "67e113f9e249027b806a03f6"
+	},
+	{
+		"_id": "67e113f9e221327b776a03f7",
+		"title": "Web Development",
+		"description": "This course will teach you how to build high quality web applications with HTML, CSS, JavaScript, React, Node.js, and more.",
+		"weeks": "10",
+		"tuition": 14000,
+		"minimumSkill": "beginner",
+		"scholarshipAvailable": true,
+		"bootcamp": "67f621037582ff2178bf5057"
+	},
+	{
+		"_id": "67e113f9e221327b776a03f8",
+		"title": "Software QA",
+		"description": "This course will teach you everything you need to know about software quality assurance.",
+		"weeks": "6",
+		"tuition": 5000,
+		"minimumSkill": "intermediate",
+		"scholarshipAvailable": false,
+		"bootcamp": "67f621037582ff2178bf5057"
+	},
+	{
+		"_id": "67e113f9e221327b776a03f3",
+		"title": "IOS Development",
+		"description": "Get started building iOS apps with Swift and other tools.",
+		"weeks": "8",
+		"tuition": 6000,
+		"minimumSkill": "intermediate",
+		"scholarshipAvailable": false,
+		"bootcamp": "67e113f9e249027b806a03e7"
+	}
+]
